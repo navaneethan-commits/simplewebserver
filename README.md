@@ -104,7 +104,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-<img width="255" height="275" alt="Screenshot 2026-11-12 082426" src="https://github.com/user-attachments/assets/f250572f-3e02-4965-ac34-2e4d7c426cc2" />
+<img width="285" height="238" alt="image" src="https://github.com/user-attachments/assets/f1d24391-acb0-4f80-99c1-bf26e15cd456" />
+
+
 
 
 
